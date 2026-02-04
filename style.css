@@ -1,0 +1,32 @@
+body {
+    background-color: #495a42;
+}
+
+h1 {
+    color:#fac808;
+    font-family: "Times New Roman", Times, serif;
+
+}     
+
+p {
+    color: #caa86e;
+    font-family: "Arial", Helvetica, sans-serif;
+}
+
+main {
+    margin: 40px;
+    padding: 20px;
+}
+ 
+h2 {
+    color: #68f92a;
+}
+
+.box {
+    width: 90px;
+    height: 80px;
+    background-color: red;
+    border: 2px solid black;
+    padding: 80px;
+    margin: 80px;
+}
